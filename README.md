@@ -4,7 +4,8 @@ Title: Selective social tolerance drives differentiated relationships among wild
                     
 Authors: Stephanie Fox, Martin N. Muller, Natalia Camargo Peña, Nicole Thompson González, Zarin Machanda, Emily Otali, Richard Wrangham, Melissa Emery Thompson
 
-Available Contents 
+Available Contents:
+
 DATASETS
 1. 10 yr 5m index
 2. PPI data
